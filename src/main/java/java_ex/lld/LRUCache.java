@@ -1,4 +1,4 @@
-package java.lld;
+package java_ex.lld;
 
 public class LRUCache {
 }

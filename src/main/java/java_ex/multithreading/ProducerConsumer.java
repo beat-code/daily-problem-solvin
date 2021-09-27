@@ -1,4 +1,4 @@
-package java.multithreading;
+package java_ex.multithreading;
 
 public class ProducerConsumer {
 }
